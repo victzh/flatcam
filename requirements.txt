@@ -28,7 +28,7 @@ shapely>=2.0
 
 # ###############################
 # OR-TOOLS package is now optional
-ortools>=7.0
+# ortools>=7.0
 # ###############################
 
 lxml

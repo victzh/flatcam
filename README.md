@@ -1,3 +1,6 @@
+Copy of FlatCAM beta for Laser add-on
+
+Original at https://bitbucket.org/marius_stanciu/flatcam_beta/branches/Beta_8.995
 FlatCAM Evo (c) 2019 - by Marius Stanciu
 
 Based on FlatCAM: 
